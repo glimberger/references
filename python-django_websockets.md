@@ -1,4 +1,4 @@
-Articles autour des wabsockets pour Python et/ou Django
+Articles autour des websockets pour Python et/ou Django
 =======================================================
 
 * [Un peu de websocket avec Django](http://geotribu.net/node/669)
